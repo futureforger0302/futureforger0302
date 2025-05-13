@@ -31,10 +31,6 @@
   <a href="https://docs.soliditylang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/>
   </a>
-  <!-- Solana -->
-  <a href="https://solana.com/" target="_blank" rel="noreferrer">
-    <img src="https://cryptologos.cc/logos/solana-sol-logo.svg?v=026" alt="solana" width="40" height="40"/>
-  </a>
   <!-- Qt -->
   <a href="https://www.qt.io/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/>
@@ -54,14 +50,6 @@
   <!-- Scikit-learn -->
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
-  </a>
-  <!-- ONNX Runtime -->
-  <a href="https://onnxruntime.ai/" target="_blank" rel="noreferrer">
-    <img src="https://onnxruntime.ai/images/onnxruntime-logo.png" alt="onnxruntime" width="40" height="40"/>
-  </a>
-  <!-- TensorRT -->
-  <a href="https://developer.nvidia.com/tensorrt" target="_blank" rel="noreferrer">
-    <img src="https://developer.nvidia.com/sites/default/files/akamai/tensorrt/TensorRT-logo.png" alt="tensorrt" width="40" height="40"/>
   </a>
   <!-- Docker -->
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
