@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josephperrott" alt="futureforger0302" /></a> </p>
 
-- 💬 Ask me about **C++, C#, Python, PyTorch, Tensorflow, Keras, Scikit-learn, ONNX Runtime, TensorRT**
+- 💬 Ask me about **C++, C#, Python, Solidity, Rust, PyTorch, Tensorflow, Keras, Scikit-learn, ONNX Runtime, TensorRT**
 
 - 📫 How to reach me **shineman.galaxy@gmail.com**
 
@@ -30,6 +30,10 @@
   <!-- Solidity -->
   <a href="https://docs.soliditylang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/>
+  </a>
+  <!-- Rust -->
+  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>
   </a>
   <!-- Qt -->
   <a href="https://www.qt.io/" target="_blank" rel="noreferrer">
